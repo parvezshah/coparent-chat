@@ -1,0 +1,21 @@
+{
+  "_note": "sample chart, not computed",
+  "chartId": "sample-hannah",
+  "type": "Generator",
+  "strategy": "To respond",
+  "authority": "Emotional (Solar Plexus)",
+  "profile": { "lines": "3/5", "keynotes": ["Martyr", "Heretic"] },
+  "definition": "Split",
+  "centres": {
+    "defined": ["Sacral", "Solar Plexus", "Throat", "G"],
+    "undefined": ["Head", "Ajna", "Heart", "Spleen", "Root"]
+  },
+  "channels": [
+    { "name": "Intimacy", "gates": [59, 6] },
+    { "name": "The Alpha", "gates": [7, 31] }
+  ],
+  "incarnationCross": "Right Angle Cross of Planning",
+  "signature": "Satisfaction",
+  "notSelfTheme": "Frustration",
+  "gates": [6, 7, 31, 59, 37, 40, 9, 16, 11, 26, 42, 53, 15]
+}

@@ -1,0 +1,61 @@
+:root {
+  --paper: #fbf8f3;
+  --sheet: #ffffff;
+  --ink: #2b2520;
+  --secondary: #6b6158;
+  --rule: #e6dfd5;
+  --accent: #ad5632; /* the brief's #C5673F, darkened to pass axe's contrast (spec D2) */
+  --on-accent: #ffffff;
+  --tint: #f6e7de;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #1c1916;
+    --sheet: #262220;
+    --ink: #f1ece6;
+    --secondary: #b6aca2;
+    --rule: #3a342f;
+    --accent: #e08a61;
+    --on-accent: #1c1916;
+    --tint: #3d2e26;
+    color-scheme: dark;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+a {
+  color: var(--ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}

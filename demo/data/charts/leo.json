@@ -1,0 +1,21 @@
+{
+  "_note": "sample chart, not computed",
+  "chartId": "sample-leo",
+  "type": "Manifesting Generator",
+  "strategy": "To respond, then inform",
+  "authority": "Sacral",
+  "profile": { "lines": "6/2", "keynotes": ["Role Model", "Hermit"] },
+  "definition": "Single",
+  "centres": {
+    "defined": ["Sacral", "Root", "Throat"],
+    "undefined": ["Head", "Ajna", "G", "Heart", "Spleen", "Solar Plexus"]
+  },
+  "channels": [
+    { "name": "Charisma", "gates": [20, 34] },
+    { "name": "Concentration", "gates": [9, 52] }
+  ],
+  "incarnationCross": "Left Angle Cross of Defiance",
+  "signature": "Satisfaction and peace",
+  "notSelfTheme": "Frustration and anger",
+  "gates": [20, 34, 9, 52, 2, 14, 27, 43, 61, 63, 38, 54]
+}

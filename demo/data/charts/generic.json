@@ -1,0 +1,20 @@
+{
+  "_note": "sample chart, not computed",
+  "chartId": "sample-generic",
+  "type": "Manifestor",
+  "strategy": "To inform",
+  "authority": "Emotional (Solar Plexus)",
+  "profile": { "lines": "2/4", "keynotes": ["Hermit", "Opportunist"] },
+  "definition": "Single",
+  "centres": {
+    "defined": ["Solar Plexus", "Throat"],
+    "undefined": ["Head", "Ajna", "G", "Heart", "Spleen", "Sacral", "Root"]
+  },
+  "channels": [
+    { "name": "Transitoriness", "gates": [35, 36] }
+  ],
+  "incarnationCross": "Right Angle Cross of Laws",
+  "signature": "Peace",
+  "notSelfTheme": "Anger",
+  "gates": [35, 36, 3, 21, 47, 64, 10]
+}
